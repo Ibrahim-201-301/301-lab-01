@@ -1,6 +1,9 @@
 html {
     background-color: rgb(230, 230, 230);
-    width: 480px;
+}
+
+body {
+    min-width: 480px;
 }
 
 section {
@@ -14,7 +17,3 @@ p {
     font-family: monospace;
     margin: 0;
 }
-
-/* #a {
-    margin: 50%, 50%;
-} */
