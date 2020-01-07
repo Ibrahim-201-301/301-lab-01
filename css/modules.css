@@ -83,6 +83,7 @@
     #i {
         width: 100%;
         height: 150px;
+        background-color: rgba(0, 126, 167, 0.4);
     }
 
     #i p {
